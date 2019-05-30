@@ -1,4 +1,4 @@
-# npp_custom_languages
+# NPP_custom_languages (Notepad++)
 My user defined languages for Notepad++ focused in CA Clarity PPM - [Highlight Syntax]
 
 The generic highlight definition works for White or Dark background. However I strongly recommend to use the custom defintion for each background color.
@@ -17,13 +17,12 @@ Target code: Selenium (JSON)
 
 # import
 1) Open Notepad++, 
-2) Language, 
-3) Define your language, 
-4) Import, i.e "my_syntax_json_seleniuml_v1.2.xml", 
-5) SaveAs... [Choose a name] i.e "JSON for Selenium/Kantu"
+2) Menu "Language","Define your language" 
+3) Button "Import", choose the file i.e "my_syntax_json_seleniuml_v1.2.xml", 
+5) Button "SaveAs..." [Choose a name] i.e "JSON for Selenium/Kantu"
 
-# Highlight cod
+# Highlight code
 1) Open a your code/text file 
-2) Notepad++, Language, [Choose the previous language] i.e "JSON for Selenium/Kantu"
+2) Notepad++, Language, [Choose the previously created language name] i.e "JSON for Selenium/Kantu"
 
 [if you extension file is associated to the language definition then step2 is not required]
