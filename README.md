@@ -1,8 +1,12 @@
 # npp_custom_languages
 My user defined languages for Notepad++ focused in CA Clarity PPM - [Highlight Syntax]
 
+The generic highlight definition works for White or Dark background. However I strongly recommend to use the custom defintion for each background color.
 
-# Target code: NSQL, GEL(XML, SQL,), LogFiles, Selenium (JSON) 
+
+# File: GEL_XML_SQL_xxxx_bg_vx.xml  -Target code: NSQL, GEL(XML, SQL,), LogFiles
+# File: my_syntax_Clarityppm_logfiles_vx.x.xml  -Target code: Clarity PPM LogFiles(ca-app.log, bg-ca.log,...)
+# File: my_syntax_json_selenium_vx.x.xml Target code: Selenium (JSON) 
 
 ## How to install/Use
 
