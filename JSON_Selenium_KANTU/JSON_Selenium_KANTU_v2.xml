@@ -1,4 +1,6 @@
 <NotepadPlus>
+    <!-- udl for npp by DPG
+   Credits and GPL license at https://github.com/dapgo/npp_custom_languages -->
     <UserLang name="JSON Selenium Kantu v2" ext=".json" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="no" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
